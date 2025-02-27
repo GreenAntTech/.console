@@ -1,0 +1,20 @@
+{
+    "host": {
+        "provider": "GitHub",
+        "accountName": "GreenAntTech",
+        "authToken": {}
+    },
+    "packages": {
+		    "console": {
+            "alias": "main"
+        }
+    },
+    "routeMappings": [
+        { "route": "/*", "path": "console/server/pages.ts" }
+    ],
+        "middleware": [
+    ],
+    "contextExtensions": {},
+    "featureFlags": [],
+    "settings": {}
+}
