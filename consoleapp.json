@@ -5,16 +5,16 @@
         "authToken": {}
     },
     "packages": {
-		    "console": {
+	"console": {
             "alias": "main"
         }
     },
-    "routeMappings": [
+    "routes": [
         { "route": "/*", "path": "console/server/pages.ts" }
     ],
-        "middleware": [
+    "directives": [
     ],
-    "contextExtensions": {},
+    "extensions": {},
     "featureFlags": [],
     "settings": {}
 }
