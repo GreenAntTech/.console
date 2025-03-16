@@ -1,11 +1,6 @@
 {
-    "host": {
-        "provider": "GitHub",
-        "accountName": "GreenAntTech",
-        "authToken": ""
-    },
     "packages": {
-	"console": {
+	    "console": {
             "alias": "main"
         }
     },
