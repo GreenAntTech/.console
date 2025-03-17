@@ -1,0 +1,15 @@
+{
+    "packages": {
+	    "console": {
+            "alias": "main"
+        }
+    },
+    "routes": [
+        { "route": "/*", "path": "console/server/pages.ts" }
+    ],
+    "directives": [
+    ],
+    "extensions": {},
+    "featureFlags": [],
+    "settings": {}
+}
