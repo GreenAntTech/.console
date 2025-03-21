@@ -1,3 +1,4 @@
 {
-    "localhost" : { "application": "app" }
+    "localhost" : { "application": "app" },
+    "jsphere-19841005803.us-central1.run.app": { "application": "app" }
 }
